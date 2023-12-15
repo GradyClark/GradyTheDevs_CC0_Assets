@@ -1,13 +1,14 @@
-// Name: Mix Colors 3D
+// Name: Mix Color 3D
 // Description: Mix colors based on a mask
 // Author: GradyTheDev
 // License: CC0 1.0
+// Date: 2023-12-14
 
 // How to use
 // Add this shader as the next pass after
 // the shader that creates the shader mask
 // Higher mask values (ALBEDO) increase the presence
-// of color A, and reduces the presence of color B.
+// of color A, and reduces the presence of color B
 
 shader_type spatial;
 
