@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="lockon_industries.svg"
+   inkscape:export-filename="lockon_industries.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="29.176875"
+     inkscape:cx="494.6383"
+     inkscape:cy="261.64556"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient2929"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#8e2222;stop-opacity:1;"
+         offset="0"
+         id="stop2927" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient912"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop910" />
+    </linearGradient>
+    <rect
+       x="226.27417"
+       y="113.13708"
+       width="105.35891"
+       height="41.012193"
+       id="rect28692" />
+    <rect
+       x="257.38687"
+       y="104.6518"
+       width="70.003571"
+       height="41.7193"
+       id="rect28686" />
+    <linearGradient
+       id="linearGradient4484"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4482" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4401"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4399" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 256 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="512 : 256 : 1"
+       inkscape:persp3d-origin="256 : 170.66667 : 1"
+       id="perspective279" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2929"
+       id="linearGradient2931"
+       x1="549.44135"
+       y1="99.847631"
+       x2="565.5655"
+       y2="99.847631"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Rocket Image"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <path
+       id="rect23798"
+       style="fill:#626262;stroke:#8e2222;stroke-width:1.26497"
+       d="m 508.88128,254.00955 c 0,39.18116 -61.72251,69.79133 -105.37502,69.79133 H 358.65929 7.5815614 V 254.00955 184.21822 H 358.65929 403.50626 c 43.65251,0 105.37502,30.61017 105.37502,69.79133 z"
+       sodipodi:nodetypes="sscccccss" />
+    <path
+       id="rect28463"
+       style="fill:#626262;stroke:#8e2222;stroke-width:1.199"
+       d="M 7.5130087,323.81072 H 128.42827 L 7.8665607,428.46252 Z"
+       sodipodi:nodetypes="cccc" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect28463"
+       id="use28468"
+       transform="matrix(1,0,0,-1,0.10095148,507.94652)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Name"
+     transform="matrix(1.0060284,0,0,0.79701805,-5.61128,172.13676)"
+     style="display:inline">
+    <ellipse
+       style="fill:#000000;fill-opacity:0;stroke:#8e2222;stroke-width:6.78311;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="path671"
+       cx="158.20107"
+       cy="96.598259"
+       rx="22.969927"
+       ry="34.863647"
+       inkscape:label="path671" />
+    <text
+       xml:space="preserve"
+       style="font-size:67.8879px;display:inline;fill:#000000;stroke-width:5.65734"
+       x="14.592881"
+       y="98.342918"
+       id="text63"
+       transform="scale(0.78770126,1.2695168)"><tspan
+         sodipodi:role="line"
+         id="tspan61"
+         x="14.592881"
+         y="98.342918"
+         style="stroke-width:5.65734">Lock     n Industries</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20.6051px;display:inline;fill:#000000;fill-opacity:1;paint-order:normal"
+       x="548.9317"
+       y="107.20365"
+       id="text28704"
+       transform="scale(0.90038857,1.1106316)"
+       inkscape:label="copyright"><tspan
+         id="tspan28702"
+         style="fill:#000000;fill-opacity:1;paint-order:normal"
+         x="548.9317"
+         y="107.20365"
+         sodipodi:role="line">©</tspan></text>
+    <g
+       inkscape:groupmode="layer"
+       id="layer3"
+       inkscape:label="Crosshair"
+       transform="matrix(0.99400772,0,0,1.2546767,0.67181461,-219.41619)">
+      <rect
+         style="display:inline;fill:#8e2222;fill-opacity:1;stroke:#8e2222;stroke-width:2.04777;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect22047"
+         width="3.432724"
+         height="23.536158"
+         x="156.63329"
+         y="40.641815"
+         transform="matrix(1.0060284,0,0,0.79701807,-0.67586458,174.87867)" />
+      <rect
+         style="display:inline;fill:#8e2222;fill-opacity:1;stroke:#8e2222;stroke-width:2.04777;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect22101"
+         width="3.432724"
+         height="23.536158"
+         x="156.63329"
+         y="129.49777"
+         inkscape:label="rect22101"
+         transform="matrix(1.0060284,0,0,0.79701807,-0.67586458,174.87867)" />
+      <rect
+         style="display:inline;fill:#8e2222;fill-opacity:1;stroke:#8e2222;stroke-width:2.04777;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect22103"
+         width="5.5324287"
+         height="14.603557"
+         x="94.893204"
+         y="-194.49203"
+         transform="matrix(0,0.79701807,-1.0060284,0,-0.67586458,174.87867)" />
+      <rect
+         style="display:inline;fill:#8e2222;fill-opacity:1;stroke:#8e2222;stroke-width:2.04777;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect22105"
+         width="5.5324287"
+         height="14.603557"
+         x="94.893204"
+         y="-136.5135"
+         transform="matrix(0,0.79701807,-1.0060284,0,-0.67586458,174.87867)" />
+    </g>
+  </g>
+  <metadata
+     id="metadata28889">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:description>A logo for a fictional military arms company</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
